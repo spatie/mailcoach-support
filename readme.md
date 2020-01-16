@@ -14,4 +14,6 @@ It features:
 
 It can be installed as a stand alone app or integration in an existing Laravel application.
 
+If you have a question or need support for Mailcoach, head over to [the issue tracker](https://github.com/spatie/mailcoach-support/issues).
+
 [Full documentation](https://mailcoach.app)
