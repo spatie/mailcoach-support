@@ -1,5 +1,7 @@
 # Questions and support for Mailcoach
 
+![Header image](https://spatie.github.io/mailcoach-support/images/header.jpg)
+
 [Mailcoach](https://mailcoach.app) is a self-hosted email list manager - in a modern jacket.
 
 It features:
