@@ -1,4 +1,4 @@
-# Questions and support for Mailcoach
+# Mailcoach support
 
 ![Header image](https://spatie.github.io/mailcoach-support/images/header.jpg)
 
@@ -14,6 +14,8 @@ It features:
 
 It can be installed as a stand alone app or integration in an existing Laravel application.
 
-If you have a question or need support for Mailcoach, head over to [the issue tracker](https://github.com/spatie/mailcoach-support/issues).
+## Have a support question?
+
+This repo has been put in read only mode. If you have a question or need support for Mailcoach, head over to [the issue tracker on the laravel-mailcoach repo](https://github.com/spatie/laravel-mailcoach).
 
 [Full documentation](https://mailcoach.app)
