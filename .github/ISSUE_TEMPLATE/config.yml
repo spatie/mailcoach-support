@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+    - name: Ask a Question
+      url: https://github.com/spatie/mailcoach-support/discussions/new?category=q-a
+      about: General questions and installation issues
+    - name: Feature Request
+      url: https://github.com/spatie/mailcoach-support/discussions/new?category=ideas
+      about: Share ideas for new features
+    - name: Bug Report
+      url: https://github.com/spatie/mailcoach-support/issues/new
+      about: Report a reproducable bug
